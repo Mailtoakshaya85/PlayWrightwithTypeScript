@@ -26,3 +26,6 @@ A boilerplate for end-to-end testing using Playwright and TypeScript.
    ```powershell
    npm run test:report
    ```
+
+# PlayWrightwithTypeScript
+All codes with Play wright with Type Script
